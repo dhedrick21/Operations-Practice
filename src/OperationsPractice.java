@@ -18,7 +18,7 @@ public class OperationsPractice
 	System.out.println("Number - 6: " + number);
 	number %= 2;
 	System.out.println("Number % 2: " + number);
-	
+	//I made changes
 	}
 
 }
