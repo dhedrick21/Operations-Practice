@@ -19,6 +19,7 @@ public class OperationsPractice
 	number %= 2;
 	System.out.println("Number % 2: " + number);
 	//I made changes
+	
 	}
 
 }
